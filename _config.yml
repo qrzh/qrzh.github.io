@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.jpg"
+  avatar           : "Profile.JPG"
   name             : "Qingrou Zhao"
   pronouns         : "she/her"  
   bio              : "historian"
-  location         : ""
+  location         : "School of History, Classics & Archaeology"
   employer         : "University of Edinburgh"
   uri              : # URL
   email            : "Email" 
